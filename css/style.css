@@ -26,13 +26,13 @@ header{
 
 /* Navigation menu */
 #navigation {
-  	width: 100%;
-		height:85px;
-		margin-top:-4px;
-    display: inline-block;
-    text-align: center;
-    list-style: none;
-    background-color:#8b0000;
+  width: 100%;
+  height:85px;
+  margin-top:-4px;
+  display: inline-block;
+  text-align: center;
+  list-style: none;
+  background-color:#8b0000;
 }
 
 #navigation li {
@@ -74,7 +74,12 @@ h1{
 
 }
 
-
+footer {
+	width: 100%
+	background-color:#8b0000;
+	height: 85px;
+	
+}
 
 
 /* Simple grid */
